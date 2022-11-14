@@ -1,0 +1,32 @@
+body {
+    font-family: monospace, sans-serif;
+    background-color: gainsboro;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: #58150A;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid #070707 ;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color:#2143D6 ;
+  }
+  
+  td {
+    border-top: 1px solid #2143D6 ;
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: #A0AB3E ;
+  }
